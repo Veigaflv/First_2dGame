@@ -1,5 +1,5 @@
 # Characters
-- Gio
+**Gio**
 ![Gio](github_demo/characters/Gio.png)
 
 # 8 direction movement
@@ -20,3 +20,7 @@
     <td align="center"><img src="github_demo/movement/down-right.png" width="150"><br>Down-right</td>
   </tr>
 </table>
+
+# Atack and Hitbox
+**The light blue square shows the hitbox — enemies inside it will take damage when the attack is triggered**
+<img src="github_demo/atack/atack.png" width="150">
