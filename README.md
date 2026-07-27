@@ -21,5 +21,5 @@
 </table>
 
 # Atack and Hitbox
-<p align="center"><b>The light blue square shows the hitbox — enemies inside it will take damage when the attack is triggered.</b></p>
-<p align="center"><img src="github_demo/atack/atack.png" width="200"></p>
+<p align="left"><b>The light blue square shows the hitbox — enemies inside it will take damage when the attack is triggered.</b></p>
+<p align="left"><img src="github_demo/atack/atack.png" width="200"></p>
