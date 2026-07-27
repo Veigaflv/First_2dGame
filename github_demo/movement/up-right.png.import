@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnpvbrvu1geqh"
-path="res://.godot/imported/up-right.png-6b5e02f34b5467eb185a7844c6abf5b8.ctex"
+path="res://.godot/imported/up-right.png-4b5b84cb2f711728293148137f63e67a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://demo/movement/up-right.png"
-dest_files=["res://.godot/imported/up-right.png-6b5e02f34b5467eb185a7844c6abf5b8.ctex"]
+source_file="res://github_demo/movement/up-right.png"
+dest_files=["res://.godot/imported/up-right.png-4b5b84cb2f711728293148137f63e67a.ctex"]
 
 [params]
 

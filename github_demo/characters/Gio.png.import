@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://duvic8sshoipn"
-path="res://.godot/imported/left.png-71e38a7abd622960558f8e978cc5c6dd.ctex"
+uid="uid://ctw6rj4tnie17"
+path="res://.godot/imported/Gio.png-02bc99cff71e3c2e3cfb7d463fef33da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://github_demo/movement/left.png"
-dest_files=["res://.godot/imported/left.png-71e38a7abd622960558f8e978cc5c6dd.ctex"]
+source_file="res://github_demo/characters/Gio.png"
+dest_files=["res://.godot/imported/Gio.png-02bc99cff71e3c2e3cfb7d463fef33da.ctex"]
 
 [params]
 

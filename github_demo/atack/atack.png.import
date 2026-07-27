@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://duvic8sshoipn"
-path="res://.godot/imported/left.png-71e38a7abd622960558f8e978cc5c6dd.ctex"
+uid="uid://dc6shgfbskhfn"
+path="res://.godot/imported/atack.png-fb29c55a1c792190ac43b1c89ee44084.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://github_demo/movement/left.png"
-dest_files=["res://.godot/imported/left.png-71e38a7abd622960558f8e978cc5c6dd.ctex"]
+source_file="res://github_demo/atack/atack.png"
+dest_files=["res://.godot/imported/atack.png-fb29c55a1c792190ac43b1c89ee44084.ctex"]
 
 [params]
 
